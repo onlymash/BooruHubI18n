@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Language array -->
+	<string-array name="i18n_lang">
+		<item name="zh_cn">🇨🇳 简体中文</item>
+	</string-array>
+	<!-- Translator array -->
+	<string-array name="i18n_translator">
+		<item name="zh_cn">onlymash</item>
+	</string-array>
+</resources>
