@@ -9,6 +9,7 @@
 	<string name="action_date">Date</string>
 	<string name="action_date_range">Date range</string>
 	<string name="action_delete">Delete</string>
+	<string name="action_delete_download">Delete download</string>
 	<string name="action_details_copy_link">Copy link</string>
 	<string name="action_details_open_link">Open link</string>
 	<string name="action_details_share_link">Share link</string>
@@ -85,10 +86,6 @@
 	<string name="booru_hint_url">Url</string>
 	<string name="booru_save">Save</string>
 
-	<string name="close">Close</string>
-
-	<string name="delete_download">Delete download</string>
-
 	<string name="details_label_children">Children</string>
 	<string name="details_label_parent">Parent</string>
 	<string name="details_label_rating">Rating</string>
@@ -112,8 +109,6 @@
 	<string name="downloads_channel_description">Downloads status</string>
 	<string name="downloads_channel_name">Downloads</string>
 
-	<string name="error_battery_optimization">Operation not supported</string>
-
 	<string name="login">Login</string>
 	<string name="login_api_key">Api key</string>
 	<string name="login_password">Password</string>
@@ -130,6 +125,7 @@
 	<string name="msg_download_complete">Download complete</string>
 	<string name="msg_download_failed">Download failed</string>
 	<string name="msg_empty">Empty</string>
+	<string name="msg_error_battery_optimization">Operation not supported</string>
 	<string name="msg_error_redeem_code">Redeem failed</string>
 	<string name="msg_fav_not_supported">Not supported</string>
 	<string name="msg_file_not_found">File not found</string>
