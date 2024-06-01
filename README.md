@@ -1,0 +1,1 @@
+BooruHub internationalization and localization
