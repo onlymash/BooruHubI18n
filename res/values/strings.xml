@@ -272,10 +272,4 @@
 	<string name="user_action_recommendations">Recommendations</string>
 	<string name="user_delete_account">Delete account</string>
 	<string name="user_delete_account_message">The account will be deleted from the app</string>
-
-	<string name="app_name" translatable="false">BooruHub</string>
-
-	<string name="title_boorus_danbooru" translatable="false">Danbooru</string>
-	<string name="title_boorus_gelbooru" translatable="false">Gelbooru</string>
-	<string name="title_boorus_moebooru" translatable="false">Moebooru</string>
 </resources>
