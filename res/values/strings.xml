@@ -30,6 +30,7 @@
 	<string name="action_duration_select_week">Select a week</string>
 	<string name="action_edit">Edit</string>
 	<string name="action_favorite">Favorite</string>
+	<string name="action_help_translate">Help translate</string>
 	<string name="action_open">Open</string>
 	<string name="action_open_muzei">Open Muzei</string>
 	<string name="action_options">Options</string>
@@ -159,6 +160,7 @@
 	<string name="settings_about_github">GitHub</string>
 	<string name="settings_app_licenses">Licenses</string>
 	<string name="settings_app_privacy_policy">Privacy policy</string>
+	<string name="settings_app_translations">Translations</string>
 	<string name="settings_app_version">Version</string>
 	<string name="settings_auto_hide_bottom_bar">Auto hide bottom bar</string>
 	<string name="settings_black_dark_mode">Black dark mode</string>
@@ -220,6 +222,7 @@
 	<string name="settings_size_sample">Sample</string>
 	<string name="settings_size_thumbnail">Thumbnail</string>
 	<string name="settings_summary_app_licenses">Open Source Licenses</string>
+	<string name="settings_summary_app_translations">List of translators</string>
 	<string name="settings_summary_auto_hide_bottom_bar">Hide bottom bar when scrolling down</string>
 	<string name="settings_summary_disable_battery_optimizations">Allow the app to run in the background</string>
 	<string name="settings_summary_download_unmetered_network_only">Download only when connected to unmetered network</string>
@@ -264,6 +267,7 @@
 	<string name="title_settings_muzei">Muzei</string>
 	<string name="title_settings_storage">Storage</string>
 	<string name="title_tags">Tags</string>
+	<string name="title_translations">Translations</string>
 	<string name="title_user">User</string>
 
 	<string name="user_action_comments">Comments</string>

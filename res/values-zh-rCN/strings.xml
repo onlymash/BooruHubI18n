@@ -30,6 +30,7 @@
 	<string name="action_duration_select_week">选择一周</string>
 	<string name="action_edit">编辑</string>
 	<string name="action_favorite">收藏</string>
+	<string name="action_help_translate">帮助翻译</string>
 	<string name="action_open">打开</string>
 	<string name="action_open_muzei">打开 Muzei</string>
 	<string name="action_options">选项</string>
@@ -155,6 +156,7 @@
 	<string name="settings_about_github">GitHub</string>
 	<string name="settings_app_licenses">Licenses</string>
 	<string name="settings_app_privacy_policy">隐私政策</string>
+	<string name="settings_app_translations">翻译</string>
 	<string name="settings_app_version">版本</string>
 	<string name="settings_auto_hide_bottom_bar">自动隐藏底栏</string>
 	<string name="settings_black_dark_mode">纯黑深色模式</string>
@@ -216,6 +218,7 @@
 	<string name="settings_size_sample">样本</string>
 	<string name="settings_size_thumbnail">缩略图</string>
 	<string name="settings_summary_app_licenses">Open Source Licenses</string>
+	<string name="settings_summary_app_translations">译者名单</string>
 	<string name="settings_summary_auto_hide_bottom_bar">向下滚动时隐藏底栏</string>
 	<string name="settings_summary_disable_battery_optimizations">允许应用在后台运行</string>
 	<string name="settings_summary_download_unmetered_network_only">仅在连接到非计量网络时下载</string>
@@ -260,6 +263,7 @@
 	<string name="title_settings_muzei">Muzei</string>
 	<string name="title_settings_storage">存储</string>
 	<string name="title_tags">标签</string>
+	<string name="title_translations">翻译</string>
 	<string name="title_user">用户</string>
 
 	<string name="user_action_comments">评论</string>

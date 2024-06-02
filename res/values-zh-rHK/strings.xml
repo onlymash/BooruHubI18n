@@ -30,6 +30,7 @@
 	<string name="action_duration_select_week">選取一週</string>
 	<string name="action_edit">編輯</string>
 	<string name="action_favorite">最愛</string>
+	<string name="action_help_translate">Help translate</string>
 	<string name="action_open">開啟</string>
 	<string name="action_open_muzei">開啟 Muzei</string>
 	<string name="action_options">選項</string>
@@ -159,6 +160,7 @@
 	<string name="settings_about_github">GitHub</string>
 	<string name="settings_app_licenses">授權</string>
 	<string name="settings_app_privacy_policy">私隱政策</string>
+	<string name="settings_app_translations">Translations</string>
 	<string name="settings_app_version">版本</string>
 	<string name="settings_auto_hide_bottom_bar">自動隱藏底部列</string>
 	<string name="settings_black_dark_mode">黑色模式</string>
@@ -220,6 +222,7 @@
 	<string name="settings_size_sample">樣本</string>
 	<string name="settings_size_thumbnail">縮圖</string>
 	<string name="settings_summary_app_licenses">開放原始碼授權</string>
+	<string name="settings_summary_app_translations">List of translators</string>
 	<string name="settings_summary_auto_hide_bottom_bar">向下捲動時隱藏底部列</string>
 	<string name="settings_summary_disable_battery_optimizations">允許應用程式在背景執行</string>
 	<string name="settings_summary_download_unmetered_network_only">僅在連線到非計量付費網絡時下載</string>
@@ -264,6 +267,7 @@
 	<string name="title_settings_muzei">Muzei</string>
 	<string name="title_settings_storage">儲存空間</string>
 	<string name="title_tags">標籤</string>
+	<string name="title_translations">Translations</string>
 	<string name="title_user">使用者</string>
 
 	<string name="user_action_comments">留言</string>

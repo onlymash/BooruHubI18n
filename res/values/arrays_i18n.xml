@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<!-- Flag array -->
+	<string-array name="i18n_flag">
+		<item name="zh_cn">🇨🇳</item>
+		<item name="zh_hk">🇭🇰</item>
+		<item name="zh_tw">🇹🇼</item>
+	</string-array>
 	<!-- Language array -->
 	<string-array name="i18n_lang">
-		<item name="zh_cn">🇨🇳 简体中文</item>
-		<item name="zh_hk">🇭🇰 繁體中文</item>
-		<item name="zh_tw">🇹🇼 繁體中文</item>
+		<item name="zh_cn">简体中文</item>
+		<item name="zh_hk">繁體中文</item>
+		<item name="zh_tw">繁體中文</item>
 	</string-array>
 	<!-- Translator array -->
 	<string-array name="i18n_translator">
