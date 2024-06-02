@@ -272,10 +272,4 @@
 	<string name="user_action_recommendations">建議</string>
 	<string name="user_delete_account">刪除帳戶</string>
 	<string name="user_delete_account_message">此帳戶將會從這個應用程式中刪除</string>
-
-	<string name="app_name" translatable="false">BooruHub</string>
-
-	<string name="title_boorus_danbooru" translatable="false">Danbooru</string>
-	<string name="title_boorus_gelbooru" translatable="false">Gelbooru</string>
-	<string name="title_boorus_moebooru" translatable="false">Moebooru</string>
 </resources>

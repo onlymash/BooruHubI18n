@@ -3,9 +3,13 @@
 	<!-- Language array -->
 	<string-array name="i18n_lang">
 		<item name="zh_cn">🇨🇳 简体中文</item>
+		<item name="zh_hk">🇭🇰 繁體中文</item>
+		<item name="zh_tw">🇹🇼 繁體中文</item>
 	</string-array>
 	<!-- Translator array -->
 	<string-array name="i18n_translator">
 		<item name="zh_cn">onlymash</item>
+		<item name="zh_hk">Adeptus2</item>
+		<item name="zh_tw">Adeptus2</item>
 	</string-array>
 </resources>
