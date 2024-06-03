@@ -130,6 +130,7 @@
 	<string name="msg_error_redeem_code">Redeem failed</string>
 	<string name="msg_fav_not_supported">Not supported</string>
 	<string name="msg_file_not_found">File not found</string>
+	<string name="msg_flexbooru_db_not_found">Flexbooru data not found</string>
 	<string name="msg_generate_qr_code_failed">Generate QR Code Failed</string>
 	<string name="msg_no_booru">No booru added yet</string>
 	<string name="msg_no_pools">No pools found</string>
@@ -188,6 +189,7 @@
 	<string name="settings_download_size">Preferred size</string>
 	<string name="settings_download_unmetered_network_only">Unmetered network only</string>
 	<string name="settings_downloads_folder">Downloads folder</string>
+	<string name="settings_export_flexbooru_db">Export Flexbooru data</string>
 	<string name="settings_grid_mode">Grid mode</string>
 	<string name="settings_grid_mode_16_9">16:9</string>
 	<string name="settings_grid_mode_9_16">9:16</string>
@@ -226,6 +228,7 @@
 	<string name="settings_summary_auto_hide_bottom_bar">Hide bottom bar when scrolling down</string>
 	<string name="settings_summary_disable_battery_optimizations">Allow the app to run in the background</string>
 	<string name="settings_summary_download_unmetered_network_only">Download only when connected to unmetered network</string>
+	<string name="settings_summary_export_flexbooru_db">After exporting, you can use any sqlite editor or viewer tool to view the content</string>
 	<string name="settings_summary_grid_size">The number of spans is equal to the screen width divided by the grid size</string>
 	<string name="settings_summary_offscreen_page_limit">The number of pages that should be retained to either side of the currently visible page(s)</string>
 	<string name="settings_summary_overwrite_mode">Overwrite the current result with the new one</string>
