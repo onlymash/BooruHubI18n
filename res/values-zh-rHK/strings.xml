@@ -130,7 +130,7 @@
 	<string name="msg_error_redeem_code">兌換失敗</string>
 	<string name="msg_fav_not_supported">不支援</string>
 	<string name="msg_file_not_found">找不到檔案</string>
-	<string name="msg_flexbooru_db_not_found">Flexbooru data not found</string>
+	<string name="msg_flexbooru_db_not_found">找不到 Flexbooru 資料</string>
 	<string name="msg_generate_qr_code_failed">產生 QR Code 失敗</string>
 	<string name="msg_no_booru">尚未新增 Booru</string>
 	<string name="msg_no_pools">找不到圖集</string>
@@ -189,7 +189,7 @@
 	<string name="settings_download_size">偏好大小</string>
 	<string name="settings_download_unmetered_network_only">僅在非計量付費網絡下載</string>
 	<string name="settings_downloads_folder">下載資料夾</string>
-	<string name="settings_export_flexbooru_db">Export Flexbooru data</string>
+	<string name="settings_export_flexbooru_db">匯出 Flexbooru 資料</string>
 	<string name="settings_grid_mode">格線模式</string>
 	<string name="settings_grid_mode_16_9">16:9</string>
 	<string name="settings_grid_mode_9_16">9:16</string>
@@ -228,7 +228,7 @@
 	<string name="settings_summary_auto_hide_bottom_bar">向下捲動時隱藏底部列</string>
 	<string name="settings_summary_disable_battery_optimizations">允許應用程式在背景執行</string>
 	<string name="settings_summary_download_unmetered_network_only">僅在連線到非計量付費網絡時下載</string>
-	<string name="settings_summary_export_flexbooru_db">After exporting, you can use any sqlite editor or viewer tool to view the content</string>
+	<string name="settings_summary_export_flexbooru_db">匯出後，您可以使用 Sqlite 編輯器或檢視器工具以檢視內容</string>
 	<string name="settings_summary_grid_size">格線數量等於螢幕寬度除以格線大小</string>
 	<string name="settings_summary_offscreen_page_limit">應該保留在目前可見頁面兩側的頁面數量</string>
 	<string name="settings_summary_overwrite_mode">用新結果覆寫目前結果</string>
