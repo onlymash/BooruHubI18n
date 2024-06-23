@@ -178,7 +178,7 @@
 	<string name="settings_category_theme">主题</string>
 	<string name="settings_dark_mode">深色模式</string>
 	<string name="settings_dark_mode_dark">深色</string>
-	<string name="settings_dark_mode_light">明亮</string>
+	<string name="settings_dark_mode_light">浅色</string>
 	<string name="settings_dark_mode_system">跟随系统</string>
 	<string name="settings_details_size">详情大小</string>
 	<string name="settings_disable_battery_optimizations">禁用电池优化</string>
