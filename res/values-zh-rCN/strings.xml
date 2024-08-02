@@ -46,7 +46,7 @@
 	<string name="action_save_as_exclude">以排除方式保存</string>
 	<string name="action_saved_tags_filter_host">按来源筛选</string>
 	<string name="action_search">搜索</string>
-	<string name="action_search_options_save_to_history">保存到历史记录</string>
+	<string name="action_search_options_save_to_collection">保存到收藏夹</string>
 	<string name="action_search_options_save_to_muzei">保存到 Muzei</string>
 	<string name="action_send_email">发送电子邮件</string>
 	<string name="action_submit">提交</string>
@@ -254,7 +254,7 @@
 	<string name="title_popular">热门</string>
 	<string name="title_posts">帖子</string>
 	<string name="title_saved">已保存</string>
-	<string name="title_saved_history">历史</string>
+	<string name="title_saved_collection">收藏夹</string>
 	<string name="title_saved_muzei">Muzei</string>
 	<string name="title_saved_tags">标签</string>
 	<string name="title_search_pools">搜索合辑</string>

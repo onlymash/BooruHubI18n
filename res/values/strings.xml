@@ -46,7 +46,7 @@
 	<string name="action_save_as_exclude">Save as Exclude</string>
 	<string name="action_saved_tags_filter_host">Filter by host</string>
 	<string name="action_search">Search</string>
-	<string name="action_search_options_save_to_history">Save to history</string>
+	<string name="action_search_options_save_to_collection">Save to collection</string>
 	<string name="action_search_options_save_to_muzei">Save to muzei</string>
 	<string name="action_send_email">Send email</string>
 	<string name="action_submit">Submit</string>
@@ -258,7 +258,7 @@
 	<string name="title_popular">Popular</string>
 	<string name="title_posts">Posts</string>
 	<string name="title_saved">Saved</string>
-	<string name="title_saved_history">History</string>
+	<string name="title_saved_collection">Collection</string>
 	<string name="title_saved_muzei">Muzei</string>
 	<string name="title_saved_tags">Tags</string>
 	<string name="title_search_pools">Search pools</string>
