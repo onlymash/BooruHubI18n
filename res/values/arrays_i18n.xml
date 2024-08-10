@@ -5,17 +5,20 @@
 		<item name="zh_cn">🇨🇳</item>
 		<item name="zh_hk">🇭🇰</item>
 		<item name="zh_tw">🇹🇼</item>
+		<item name="ja_jp">🇯🇵</item>
 	</string-array>
 	<!-- Language array -->
 	<string-array name="i18n_lang">
 		<item name="zh_cn">简体中文</item>
 		<item name="zh_hk">繁體中文</item>
 		<item name="zh_tw">繁體中文</item>
+		<item name="ja_jp">日本語</item>
 	</string-array>
 	<!-- Translator array -->
 	<string-array name="i18n_translator">
 		<item name="zh_cn">onlymash</item>
 		<item name="zh_hk">Adeptus2</item>
 		<item name="zh_tw">Adeptus2</item>
+		<item name="ja_jp">minetaro12</item>
 	</string-array>
 </resources>
