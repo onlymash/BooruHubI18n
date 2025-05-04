@@ -13,6 +13,7 @@
 	<string name="action_details_copy_link">复制链接</string>
 	<string name="action_details_open_link">打开链接</string>
 	<string name="action_details_share_link">分享链接</string>
+	<string name="action_details_search_similar">搜索相似的帖子</string>
 	<string name="action_download">下载</string>
 	<string name="action_download_pause_or_resume">展厅或恢复下载</string>
 	<string name="action_downloads_options">下载选项</string>

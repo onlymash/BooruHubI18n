@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 	<string name="action_add_booru">Add booru</string>
 	<string name="action_backup_or_restore">Backup or restore</string>
 	<string name="action_backup_to_file">Backup to file</string>
@@ -13,6 +13,7 @@
 	<string name="action_details_copy_link">Copy link</string>
 	<string name="action_details_open_link">Open link</string>
 	<string name="action_details_share_link">Share link</string>
+	<string name="action_details_search_similar">Search for similar posts</string>
 	<string name="action_download">Download</string>
 	<string name="action_download_pause_or_resume">Pause or Resume download</string>
 	<string name="action_downloads_options">Downloads options</string>
