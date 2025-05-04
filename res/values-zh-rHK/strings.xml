@@ -46,7 +46,7 @@
 	<string name="action_save_as_exclude">儲存為排除</string>
 	<string name="action_saved_tags_filter_host">依主機過濾</string>
 	<string name="action_search">搜尋</string>
-	<string name="action_search_options_save_to_collection">Save to collection</string>
+	<string name="action_search_options_save_to_collection">儲存到收藏</string>
 	<string name="action_search_options_save_to_muzei">儲存到 Muzei</string>
 	<string name="action_send_email">傳送電郵</string>
 	<string name="action_submit">提交</string>
@@ -258,7 +258,7 @@
 	<string name="title_popular">熱門</string>
 	<string name="title_posts">貼圖</string>
 	<string name="title_saved">已儲存</string>
-	<string name="title_saved_collection">Collection</string>
+	<string name="title_saved_collection">收藏</string>
 	<string name="title_saved_muzei">Muzei</string>
 	<string name="title_saved_tags">標籤</string>
 	<string name="title_search_pools">搜尋圖集</string>
