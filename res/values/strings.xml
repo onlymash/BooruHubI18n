@@ -50,7 +50,6 @@
 	<string name="action_search_options_save_to_collection">Save to collection</string>
 	<string name="action_search_options_save_to_muzei">Save to muzei</string>
 	<string name="action_send_email">Send email</string>
-	<string name="action_submit">Submit</string>
 	<string name="action_tags_category">Category</string>
 	<string name="action_tags_category_all">All</string>
 	<string name="action_tags_category_artist">Artist</string>
@@ -78,7 +77,6 @@
 	<string name="booru_add_manual">Manual</string>
 	<string name="booru_add_qr_code">Scan QR code</string>
 	<string name="booru_error_booru_name_empty">Booru name cannot be empty</string>
-	<string name="booru_error_hash_salt">Hash salt must contain placeholder "your-password"</string>
 	<string name="booru_error_url_empty">Url cannot be empty</string>
 	<string name="booru_error_url_invalid">Invalid url</string>
 	<string name="booru_hint_hash_salt">Hash salt</string>
@@ -128,7 +126,6 @@
 	<string name="msg_download_failed">Download failed</string>
 	<string name="msg_empty">Empty</string>
 	<string name="msg_error_battery_optimization">Operation not supported</string>
-	<string name="msg_error_redeem_code">Redeem failed</string>
 	<string name="msg_fav_not_supported">Not supported</string>
 	<string name="msg_file_not_found">File not found</string>
 	<string name="msg_flexbooru_db_not_found">Flexbooru data not found</string>
@@ -142,8 +139,6 @@
 	<string name="product_description">• Remove the limit on the number of boorus you can add\n• Support exporting and importing backups of boorus and tags</string>
 	<string name="product_name">BooruHub Premium</string>
 	<string name="product_tips">This is one-time purchase. You can restore your purchase anytime.</string>
-
-	<string name="purchase_redeem_code">Redeem code</string>
 
 	<string name="scroll_to_top">Scroll to top</string>
 

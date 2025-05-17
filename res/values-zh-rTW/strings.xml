@@ -49,7 +49,6 @@
 	<string name="action_search_options_save_to_collection">儲存到收藏</string>
 	<string name="action_search_options_save_to_muzei">儲存到 Muzei</string>
 	<string name="action_send_email">傳送電子郵件</string>
-	<string name="action_submit">提交</string>
 	<string name="action_tags_category">類別</string>
 	<string name="action_tags_category_all">全部</string>
 	<string name="action_tags_category_artist">繪師</string>
@@ -77,7 +76,6 @@
 	<string name="booru_add_manual">手動</string>
 	<string name="booru_add_qr_code">掃描 QR 圖碼</string>
 	<string name="booru_error_booru_name_empty">Booru 名稱不能為空白</string>
-	<string name="booru_error_hash_salt">雜湊鹽必須包含保留位置「your-password」</string>
 	<string name="booru_error_url_empty">URL 不能為空白</string>
 	<string name="booru_error_url_invalid">無效的 URL</string>
 	<string name="booru_hint_hash_salt">雜湊鹽</string>
@@ -127,7 +125,6 @@
 	<string name="msg_download_failed">下載失敗</string>
 	<string name="msg_empty">這裡什麼都沒有</string>
 	<string name="msg_error_battery_optimization">作業不支援</string>
-	<string name="msg_error_redeem_code">兌換失敗</string>
 	<string name="msg_fav_not_supported">不支援</string>
 	<string name="msg_file_not_found">找不到檔案</string>
 	<string name="msg_flexbooru_db_not_found">找不到 Flexbooru 資料</string>
@@ -141,8 +138,6 @@
 	<string name="product_description">• 移除 Booru 數量限制\n• 支援 Booru 及標籤的備份與還原</string>
 	<string name="product_name">BooruHub Premium</string>
 	<string name="product_tips">這是單次購買，您可在任何時刻還原購買。</string>
-
-	<string name="purchase_redeem_code">兌換代碼</string>
 
 	<string name="scroll_to_top">捲動至頂部</string>
 

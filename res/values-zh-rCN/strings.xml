@@ -50,7 +50,6 @@
 	<string name="action_search_options_save_to_collection">保存到收藏夹</string>
 	<string name="action_search_options_save_to_muzei">保存到 Muzei</string>
 	<string name="action_send_email">发送电子邮件</string>
-	<string name="action_submit">提交</string>
 	<string name="action_tags_category">分类</string>
 	<string name="action_tags_category_all">全部</string>
 	<string name="action_tags_category_artist">绘师</string>
@@ -78,7 +77,6 @@
 	<string name="booru_add_manual">手动添加</string>
 	<string name="booru_add_qr_code">扫描二维码</string>
 	<string name="booru_error_booru_name_empty">Booru 名称不能为空</string>
-	<string name="booru_error_hash_salt">Hash 盐必须包含占位符 "your-password"</string>
 	<string name="booru_error_url_empty">URL 不能为空</string>
 	<string name="booru_error_url_invalid">无效的 URL</string>
 	<string name="booru_hint_hash_salt">Hash 盐</string>
@@ -124,7 +122,6 @@
 	<string name="msg_download_failed">下载失败</string>
 	<string name="msg_empty">空空如也</string>
 	<string name="msg_error_battery_optimization">操作不支持</string>
-	<string name="msg_error_redeem_code">兑换失败</string>
 	<string name="msg_fav_not_supported">不支持收藏</string>
 	<string name="msg_file_not_found">文件未找到</string>
 	<string name="msg_flexbooru_db_not_found">未找到 Flexbooru 的数据</string>
@@ -138,8 +135,6 @@
 	<string name="product_description">• 移除 Booru 数量限制\n• 支持备份与恢复</string>
 	<string name="product_name">BooruHub Premium</string>
 	<string name="product_tips">这是一次性付费，你可以在任何时候激活</string>
-
-	<string name="purchase_redeem_code">兑换码</string>
 
 	<string name="scroll_to_top">滚动到顶部</string>
 

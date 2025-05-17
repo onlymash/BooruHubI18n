@@ -49,7 +49,6 @@
 	<string name="action_search_options_save_to_collection">コレクションに保存</string>
 	<string name="action_search_options_save_to_muzei">Muzeiに保存</string>
 	<string name="action_send_email">メールを送信</string>
-	<string name="action_submit">提出</string>
 	<string name="action_tags_category">カテゴリ</string>
 	<string name="action_tags_category_all">すべて</string>
 	<string name="action_tags_category_artist">アーティスト</string>
@@ -77,7 +76,6 @@
 	<string name="booru_add_manual">手動</string>
 	<string name="booru_add_qr_code">QRコードをスキャン</string>
 	<string name="booru_error_booru_name_empty">名前は空にできません</string>
-	<string name="booru_error_hash_salt">ハッシュソルトにはプレースホルダ"your-password"を含める必要があります</string>
 	<string name="booru_error_url_empty">URLを空にできません</string>
 	<string name="booru_error_url_invalid">無効なURLです</string>
 	<string name="booru_hint_hash_salt">ハッシュソルト</string>
@@ -127,7 +125,6 @@
 	<string name="msg_download_failed">ダウンロード失敗</string>
 	<string name="msg_empty">空</string>
 	<string name="msg_error_battery_optimization">サポートされていない操作です</string>
-	<string name="msg_error_redeem_code">引き換えに失敗しました</string>
 	<string name="msg_fav_not_supported">サポートされていません</string>
 	<string name="msg_file_not_found">ファイルがありません</string>
 	<string name="msg_flexbooru_db_not_found">Flexbooruのデータがありません</string>
@@ -141,8 +138,6 @@
 	<string name="product_description">• 追加できるBooruの数の制限を解除します\n• Booruとタグのバックアップのエクスポート/インポートをサポートします</string>
 	<string name="product_name">BooruHub プレミアム</string>
 	<string name="product_tips">これは一回限りの購入です。いつでも購入を復元できます。</string>
-
-	<string name="purchase_redeem_code">引き換えコード</string>
 
 	<string name="scroll_to_top">一番上にスクロール</string>
 
