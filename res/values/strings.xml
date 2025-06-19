@@ -84,6 +84,8 @@
 	<string name="booru_hint_name">Name</string>
 	<string name="booru_hint_type">Type</string>
 	<string name="booru_hint_url">Url</string>
+	<string name="booru_hint_api_key">API key</string>
+	<string name="booru_hint_api_id">User ID</string>
 	<string name="booru_save">Save</string>
 
 	<string name="details_label_children">Children</string>
