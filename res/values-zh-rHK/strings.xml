@@ -13,7 +13,7 @@
 	<string name="action_details_copy_link">複製連結</string>
 	<string name="action_details_open_link">開啟連結</string>
 	<string name="action_details_share_link">分享連結</string>
-	<string name="action_details_search_similar">Search for similar posts</string>
+	<string name="action_details_search_similar">搜尋類似貼圖</string>
 	<string name="action_download">下載</string>
 	<string name="action_download_pause_or_resume">暫停或繼續下載</string>
 	<string name="action_downloads_options">下載選項</string>
@@ -83,7 +83,7 @@
 	<string name="booru_hint_name">名稱</string>
 	<string name="booru_hint_type">類型</string>
 	<string name="booru_hint_url">URL</string>
-	<string name="booru_hint_api_id">User ID</string>
+	<string name="booru_hint_api_id">使用者 ID</string>
 	<string name="booru_save">儲存</string>
 
 	<string name="details_label_children">子系</string>
@@ -109,7 +109,7 @@
 	<string name="downloads_channel_description">下載狀態</string>
 	<string name="downloads_channel_name">下載</string>
 
-	<string name="muzei_updates_channel_name">Muzei Updates</string>
+	<string name="muzei_updates_channel_name">Muzei 更新</string>
 	<string name="login">登入</string>
 	<string name="login_api_key">API KEY</string>
 	<string name="login_password">密碼</string>
@@ -125,7 +125,7 @@
 	<string name="msg_clipboard_invalid">剪貼簿文字無效</string>
 	<string name="msg_download_complete">下載完成</string>
 	<string name="msg_download_failed">下載失敗</string>
-	<string name="msg_downloading_summary">Downloading %d files…</string>
+	<string name="msg_downloading_summary">正在下載 %d 個檔案…</string>
 	<string name="msg_empty">這裡什麼都沒有</string>
 	<string name="msg_error_battery_optimization">作業不支援</string>
 	<string name="msg_fav_not_supported">不支援</string>
@@ -138,9 +138,9 @@
 	<string name="msg_no_tags">找不到標籤</string>
 	<string name="msg_qr_error">無效的 QR Code</string>
 
-	<string name="msg_muzei_updating_wallpaper">Updating wallpaper…</string>
+	<string name="msg_muzei_updating_wallpaper">正在更新桌布…</string>
 	<string name="product_description">• 移除 Booru 數量限制\n• 支援 Booru 及標籤的備份與還原</string>
-	<string name="product_name">BooruHub Premium</string>
+	<string name="product_name">BooruHub 專業版</string>
 	<string name="product_tips">這是單次購買，您可在任何時刻還原購買。</string>
 
 	<string name="scroll_to_top">捲動至頂部</string>
@@ -174,7 +174,7 @@
 	<string name="settings_category_details">詳細資料</string>
 	<string name="settings_category_developer">開發人員</string>
 	<string name="settings_category_downloads">下載</string>
-	<string name="settings_category_notification">Notification</string>
+	<string name="settings_category_notification">通知</string>
 	<string name="settings_category_feedback">意見回饋</string>
 	<string name="settings_category_grid">格線</string>
 	<string name="settings_category_muzei">Muzei</string>
@@ -211,8 +211,8 @@
 	<string name="settings_overwrite_mode">覆寫模式</string>
 	<string name="settings_preview_size">預覽大小</string>
 	<string name="settings_resume_downloads">繼續下載</string>
-	<string name="settings_show_download_failed_notification">Download failed notifications</string>
-	<string name="settings_parallel_download_count">Parallel download count</string>
+	<string name="settings_show_download_failed_notification">下載失敗通知</string>
+	<string name="settings_parallel_download_count">並行下載數</string>
 	<string name="settings_safe_mode">安全模式</string>
 	<string name="settings_scale_mode">縮放模式</string>
 	<string name="settings_scale_mode_fill_screen">填滿螢幕</string>
@@ -235,8 +235,8 @@
 	<string name="settings_summary_offscreen_page_limit">應該保留在目前可見頁面兩側的頁面數量</string>
 	<string name="settings_summary_overwrite_mode">用新結果覆寫目前結果</string>
 	<string name="settings_summary_resume_downloads">開啟應用程式時繼續下載</string>
-	<string name="settings_summary_show_download_failed_notification">Show a notification when a download fails</string>
-	<string name="settings_summary_parallel_download_count">Maximum number of parallel downloads</string>
+	<string name="settings_summary_show_download_failed_notification">在下載失敗時顯示通知</string>
+	<string name="settings_summary_parallel_download_count">最大並行下載數量</string>
 	<string name="settings_summary_safe_mode">啟用安全模式以隱藏敏感內容</string>
 	<string name="settings_summary_show_action_bar">在格線下方顯示動作按鈕</string>
 	<string name="settings_summary_show_post_info">顯示貼圖 ID 和解像度</string>
@@ -262,7 +262,7 @@
 	<string name="title_popular">熱門</string>
 	<string name="title_posts">貼圖</string>
 	<string name="title_saved">已儲存</string>
-	<string name="title_saved_history">History</string>
+	<string name="title_saved_history">記錄</string>
 	<string name="title_saved_muzei">Muzei</string>
 	<string name="title_saved_tags">標籤</string>
 	<string name="title_search_pools">搜尋圖集</string>
@@ -284,7 +284,7 @@
 	<string name="user_delete_account">刪除帳戶</string>
 	<string name="user_delete_account_message">此帳戶將會從這個應用程式中刪除</string>
 	<string name="booru_hint_api_key">API Key</string>
-	<string name="msg_download_preparing">Preparing downloads…</string>
-	<string name="settings_show_download_complete_notification">Download complete notifications</string>
-	<string name="settings_summary_show_download_complete_notification">Show a notification when a download finishes successfully</string>
+	<string name="msg_download_preparing">正在準備下載…</string>
+	<string name="settings_show_download_complete_notification">下載完成通知</string>
+	<string name="settings_summary_show_download_complete_notification">在下載完成時顯示通知</string>
 </resources>
